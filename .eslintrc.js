@@ -60,7 +60,7 @@ module.exports = {
         "react-hooks/exhaustive-deps": "off",
         "react-hooks/rules-of-hooks": "error",
         semi: ["error", "always"],
-        "@typescript-eslint/no-unused-vars": "error",
+        "@typescript-eslint/no-unused-vars": "warn",
         "no-unused-vars": "off",
         "@typescript-eslint/no-explicit-any": "off",
         "@typescript-eslint/ban-ts-comment": "off",
